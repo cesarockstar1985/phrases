@@ -1,0 +1,17 @@
+{
+  "name": "frases",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.1",
+    "positivity-api": "^1.2.0",
+    "twilio": "^3.80.0"
+  }
+}
